@@ -1,0 +1,11 @@
+C:\C_Sharp\CigarRolodex\CigarRolodex\bin\Debug\CigarRolodex.exe.config
+C:\C_Sharp\CigarRolodex\CigarRolodex\bin\Debug\cigarList.sdf
+C:\C_Sharp\CigarRolodex\CigarRolodex\bin\Debug\CigarRolodex.exe
+C:\C_Sharp\CigarRolodex\CigarRolodex\bin\Debug\CigarRolodex.pdb
+C:\C_Sharp\CigarRolodex\CigarRolodex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C_Sharp\CigarRolodex\CigarRolodex\obj\x86\Debug\CigarRolodex.MainForm.resources
+C:\C_Sharp\CigarRolodex\CigarRolodex\obj\x86\Debug\CigarRolodex.Properties.Resources.resources
+C:\C_Sharp\CigarRolodex\CigarRolodex\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C_Sharp\CigarRolodex\CigarRolodex\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C_Sharp\CigarRolodex\CigarRolodex\obj\x86\Debug\CigarRolodex.exe
+C:\C_Sharp\CigarRolodex\CigarRolodex\obj\x86\Debug\CigarRolodex.pdb
